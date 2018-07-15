@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30967" started-at="2018-06-09T23:14:48Z" finished-at="2018-06-09T23:15:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30967" started-at="2018-06-09T23:14:48Z" finished-at="2018-06-09T23:15:19Z">
+      <class name="TestNGPackage.TestNGFirstscript">
+        <test-method status="PASS" signature="openapplication()[pri:0, instance:TestNGPackage.TestNGFirstscript@6767c1fc]" name="openapplication" is-config="true" duration-ms="26381" started-at="2018-06-09T23:14:48Z" finished-at="2018-06-09T23:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method status="PASS" signature="VerifyRegisterlink()[pri:0, instance:TestNGPackage.TestNGFirstscript@6767c1fc]" name="VerifyRegisterlink" duration-ms="3218" started-at="2018-06-09T23:15:14Z" finished-at="2018-06-09T23:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterlink -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:TestNGPackage.TestNGFirstscript@6767c1fc]" name="closeapplication" is-config="true" duration-ms="1269" started-at="2018-06-09T23:15:18Z" finished-at="2018-06-09T23:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- TestNGPackage.TestNGFirstscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
